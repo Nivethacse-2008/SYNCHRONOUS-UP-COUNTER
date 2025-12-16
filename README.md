@@ -60,7 +60,8 @@ Developed by:NIVETHA.S.K RegisterNumber:25016594
 **TIMING DIAGRAM FOR IP COUNTER**
 
 
-<img width="1366" height="768" alt="ex6 out" src="https://github.com/user-attachments/assets/6e073481-cad2-4ef6-9b6c-b1683f515d5d" />
+<img width="1319" height="545" alt="2025-12-16 (13)" src="https://github.com/user-attachments/assets/efbd3ff4-9d65-49b6-8519-ec6feebe182f" />
+
 
 
 
